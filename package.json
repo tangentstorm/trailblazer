@@ -1,0 +1,16 @@
+{
+  "name": "sudden-beast-squash",
+  "productName": "sudden-beast-squash",
+  "description": "My Electron application description",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "tange",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "5.0.0-beta.7"
+  }
+}
